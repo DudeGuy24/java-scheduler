@@ -1,0 +1,161 @@
+Module name: Microeconomics
+Class size: 20
+Available time: 09:00-12:00
+
+Module name: Introduction to Psychology
+Class size: 25
+Available time: 10:00-11:30
+
+Module name: Organic Chemistry
+Class size: 35
+Available time: 14:00-15:30
+
+Module name: World History
+Class size: 30
+Available time: 09:00-10:30
+
+Module name: Programming Fundamentals
+Class size: 25
+Available time: 13:00-14:30
+
+Module name: Environmental Science
+Class size: 20
+Available time: 11:00-12:30
+
+Module name: Business Ethics
+Class size: 30
+Available time: 15:00-16:30
+
+Module name: Literature and Society
+Class size: 15
+Available time: 12:00-13:30
+
+Module name: Calculus I
+Class size: 40
+Available time: 09:00-10:30
+
+Module name: Introduction to Sociology
+Class size: 20
+Available time: 14:00-15:30
+
+Module name: Digital Marketing Strategies
+Class size: 30
+Available time: 16:00-17:30
+
+Module name: Human Anatomy
+Class size: 25
+Available time: 11:00-12:30
+
+Module name: Political Science
+Class size: 35
+Available time: 10:00-11:30
+
+Module name: Data Structures and Algorithms
+Class size: 20
+Available time: 13:00-14:30
+
+Module name: Intro to Fine Arts
+Class size: 15
+Available time: 15:00-16:30
+
+Module name: Macroeconomics
+Class size: 30
+Available time: 12:00-13:30
+
+Module name: Spanish Language
+Class size: 25
+Available time: 14:00-15:30
+
+Module name: Ethics in Technology
+Class size: 20
+Available time: 09:00-10:30
+
+Module name: Physical Chemistry
+Class size: 35
+Available time: 11:00-12:30
+
+Module name: International Relations
+Class size: 30
+Available time: 16:00-17:30
+
+Module name: Macroeconomics
+Class size: 20
+Available time: 09:00-10:30
+
+Module name: Comparative Literature
+Class size: 35
+Available time: 09:30-11:00
+
+Module name: Environmental Ethics
+Class size: 25
+Available time: 10:00-11:30
+
+Module name: Data Analysis
+Class size: 15
+Available time: 10:30-12:00
+
+Module name: Quantum Physics
+Class size: 30
+Available time: 11:00-12:30
+
+Module name: Business Law
+Class size: 40
+Available time: 11:30-13:00
+
+Module name: Psychology of Happiness
+Class size: 20
+Available time: 12:00-13:30
+
+Module name: Artificial Intelligence
+Class size: 25
+Available time: 12:30-14:00
+
+Module name: Microbiology
+Class size: 30
+Available time: 09:00-10:30
+
+Module name: Modern Art History
+Class size: 15
+Available time: 09:30-11:00
+
+Module name: World Politics
+Class size: 35
+Available time: 10:00-11:30
+
+Module name: Financial Management
+Class size: 25
+Available time: 10:30-12:00
+
+Module name: Ethics in Technology
+Class size: 30
+Available time: 11:00-12:30
+
+Module name: Literature and Society
+Class size: 40
+Available time: 11:30-13:00
+
+Module name: Organic Chemistry
+Class size: 20
+Available time: 12:00-13:30
+
+Module name: Cognitive Psychology
+Class size: 25
+Available time: 12:30-14:00
+
+Module name: Environmental Science
+Class size: 30
+Available time: 09:00-10:30
+
+Module name: Introduction to Philosophy
+Class size: 15
+Available time: 09:30-11:00
+
+Module name: Political Economy
+Class size: 35
+Available time: 10:00-11:30
+
+Module name: Digital Marketing
+Class size: 25
+Available time: 10:30-12:00
+
+

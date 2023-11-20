@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Tut2.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.041 s <<< FAILURE! - in Tut2.AppTest
+testModuleAssignment(Tut2.AppTest)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+	at Tut2.AppTest.testModuleAssignment(AppTest.java:32)
+
